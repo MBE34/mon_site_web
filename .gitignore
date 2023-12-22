@@ -1,4 +1,5 @@
 *.txt
 tmp/*
 .back
-	
+*/*.txt
+*.xml
